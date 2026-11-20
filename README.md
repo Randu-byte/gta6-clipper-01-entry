@@ -1,4 +1,4 @@
-# Kai Cenat Had $0 So He Fought The NPC In GTA 6
+# IShowSpeed Stole A Grandma's Scooter To Escape The Cops In GTA 6
 
 An entry for the make.fun bounty **gta6-clipper-01** — "Clip GTA 6 for the
 most YouTube views". The entry is a short vertical video: a GTA 6 livestream
@@ -9,11 +9,11 @@ can make clips like it with AI and earn money on make.fun.
 
 - YouTube: https://www.youtube.com/shorts/PLACEHOLDER0 (placeholder — the
   real address replaces it in `VIDEO.json` once the clip is published)
-- Format: vertical 1080×1920, about 54 seconds, published as a YouTube Short
-- Source moment: Kai Cenat's GTA 6 marathon (Part 1) — an NPC chases Jason
-  down the street for no reason; Kai, whose in-game wallet reads $0,
-  protests, decides a gun would only get the cops called on him, pulls a
-  knife instead, and wins the fight.
+- Format: vertical 1080×1920, about 53 seconds, published as a YouTube Short
+- Source moment: IShowSpeed's first-day GTA 6 stream — desperate for a car,
+  he carjacks a grandma's mobility scooter; when the police arrive he tries
+  to escape on the scooter, is run down and tackled by an officer, loses all
+  his money, and concludes he is never stealing a grandma car again.
 - The last seconds of the clip are the make.fun pitch, on screen:
   "Make clips like this with AI / and earn money on make.fun /
   make.fun/bounty/gta6-clipper-01".
