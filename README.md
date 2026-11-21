@@ -11,8 +11,8 @@ can make clips like it with AI and earn money on make.fun.
 
 ## The video
 
-- YouTube: https://www.youtube.com/shorts/PLACEHOLDER0 (placeholder — the
-  real address replaces it in `VIDEO.json` once the clip is published)
+- YouTube: https://www.youtube.com/shorts/3LHQk6hREnU (the same address is
+  in `VIDEO.json`, where the grader reads it)
 - Format: vertical 1080×1920, about 53 seconds, published as a YouTube Short
 - Source moment: IShowSpeed's first-day GTA 6 stream — desperate for a car,
   he carjacks a grandma's mobility scooter; when the police arrive he tries
